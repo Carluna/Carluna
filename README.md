@@ -1,5 +1,11 @@
-### Hi there 👋
+<div align="left"> 
+  
+![R](https://img.shields.io/badge/R-006466?logo=R&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0b9ea8?logo=Python&logoColor=white)
 
+- 🌱 I’m currently learning hydrology (modeling and data analysis)!
+
+</div>
 <!--
 **Carluna/Carluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
