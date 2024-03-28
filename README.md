@@ -9,8 +9,8 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)</br>
 </br>
-:droplet: I’m currently learning hydrology (modeling and data analysis)!
-
+:droplet: I’m currently learning hydrology (modeling and data analysis)!</br>
+<img src="./6o0.gif" width="110px"/>
 </div>
 <!--
 **Carluna/Carluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
