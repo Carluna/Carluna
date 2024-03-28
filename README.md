@@ -9,7 +9,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)</br>
 </br>
-🌱 I’m currently learning hydrology (modeling and data analysis)!
+:droplet: I’m currently learning hydrology (modeling and data analysis)!
 
 </div>
 <!--
