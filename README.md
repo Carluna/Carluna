@@ -2,7 +2,9 @@
   
 ![R](https://img.shields.io/badge/R-006466?logo=R&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0b9ea8?logo=Python&logoColor=white) </br>
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</br>
 🌱 I’m currently learning hydrology (modeling and data analysis)!
 
 </div>
