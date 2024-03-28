@@ -1,8 +1,8 @@
 <div align="left"> 
   
 ![R](https://img.shields.io/badge/R-006466?logo=R&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0b9ea8?logo=Python&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-0b9ea8?logo=Python&logoColor=white) </br>
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 🌱 I’m currently learning hydrology (modeling and data analysis)!
 
 </div>
