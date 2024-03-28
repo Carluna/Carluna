@@ -3,7 +3,7 @@
 ![R](https://img.shields.io/badge/R-006466?logo=R&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0b9ea8?logo=Python&logoColor=white)
 
-- 🌱 I’m currently learning hydrology (modeling and data analysis)!
+🌱 I’m currently learning hydrology (modeling and data analysis)!
 
 </div>
 <!--
