@@ -17,8 +17,9 @@
 ## What I do:
 
 :droplet: I’m currently learning hydrology (modeling and data analysis)! :droplet:</br></br>
-<img src="./6o0.gif" width="110px"/>
+<!--<img src="./6o0.gif" width="110px"/>
 </div>
+-->
 <!--
 **Carluna/Carluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
